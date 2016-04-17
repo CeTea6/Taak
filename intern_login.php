@@ -30,20 +30,7 @@
             }
              //	$res = mysql_query($conn, "$sql");
        ?>
-<script>
-    // $(document).ready(function(){
-    //     $('#intern_login').click(function(){
-    //       console.log("testtttttt");
-    //         $.ajax({
-    //             url:'scripts/login_intern.php',
-    //             success: function(response){
-    //                 //window.location.href = 'intern_home.php';
-    //                 alert(Response);
-    //             }
-    //         });
-    //     });
-    // });
-    </script>
+
 
   </body>
 </html>
